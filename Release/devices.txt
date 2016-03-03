@@ -1,0 +1,7 @@
+
+Compiled APIs:
+ Windows Direct Sound
+ 
+Current API: Windows Direct Sound
+
+Found 4 device(s) ...
